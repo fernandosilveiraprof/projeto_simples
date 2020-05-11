@@ -1,0 +1,28 @@
+div{
+	z-index: ; /* digite o número da camada */
+	position: ; /* tipo de posicionamento do objeto  */ 
+	color: ;   /* cor do texto do objeto */
+	background-color: ; /* cor do fundo do objeto */
+	margin-top: ; /* espaçamento externa superior do objeto*/
+	margin-right: ; /* espaçamento externa a direita do objeto */
+	margin-bottom: ; /* espaçamento externa inferior do objeto  */
+	margin-left: ; /* espaçamento externa a esquerda do objeto */
+	padding-top: ; /* espaçamento interno superior */
+	padding-right: ; /* espaçamento interno a direita */
+	padding-bottom: ; /* espaçamento interno inferior */
+	padding-left: ; /* espaçamento interno a esquerda */
+	opacity: ; /* transparencia do objeto podendo ser de 0.0 a 1.0 ex: 0.1  , 0.5 , 0.9 ; */
+	overflow-x: ; /* controlar se vai ter ou não a barra de rolagem no objeto no eixo x; */
+	overflow-y: ; /* controlar se vai ter ou não a barra de rolagem no objeto no eixo y; */
+	border-top: ;  /* controlar borda superior  */ 
+	border-right: ;  /* controlar borda da direita  */ 
+	border-bottom: ;  /* controlar borda  inferior */ 
+	border-left: ;  /* controlar borda da esquerda */ 
+	width: ; /* definir largura do objeto */ 
+	height: ; /* definir altura do objeto */ 
+	top: ; /* definir posicionamento relativo do topo */ 
+	right: ; /* definir posicionamento relativo da direita */ 
+	bottom: ; /* definir posicionamento relativo de baixo */
+	left: ; /* definir posicionamento relativo da esquerda */
+
+} 
